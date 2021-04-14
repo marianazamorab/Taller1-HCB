@@ -1,0 +1,34 @@
+/* Add your styles here */
+.rowtitulo{
+  background-color: black;
+}
+.descripcion{
+  color: black;
+  font-size: medium;
+  font-family: Cambria;
+  text-align: justify;
+  border-style: solid;
+}
+
+.peliculas{
+  font-family: Cambria;
+  background-color: darkred;
+}
+
+.rowrelleno{
+  background-color: white;
+}
+
+.peliculas2{
+  font-family: Cambria;
+  background-color: gainsboro;
+}
+
+.parrafo{
+  border-width: 50px,50px,50px,50px;
+  border: black;
+}
+
+.linkColor{
+  color: brown;
+}
